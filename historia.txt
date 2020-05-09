@@ -8,6 +8,10 @@ Experimento 1
 
 Experimento 2
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Master 1
+>>>>>>> badf81e... Exp 2
